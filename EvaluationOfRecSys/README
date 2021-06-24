@@ -1,0 +1,10 @@
+# Evaluation of RecSys #
+This project implements the following metrics to evaluate a recommender system:
+i. Long tail plot
+ii. Mean average recall @ N
+iii. Coverage
+iv. Novelty
+v. Personalization
+
+Disclaimer: The code used for this project has been adapted from
+https://github.com/statisticianinstilettos/recmetrics
