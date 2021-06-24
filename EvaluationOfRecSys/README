@@ -1,4 +1,4 @@
-# Evaluation of RecSys #
+# Evaluation of RecSys 
 This project implements the following metrics to evaluate a recommender system:
 i. Long tail plot
 ii. Mean average recall @ N
