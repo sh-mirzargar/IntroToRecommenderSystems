@@ -1,0 +1,51 @@
+﻿Id Number,Title,Contains Action,Contains Adventure,Contains Animation,Contains Children,Contains Comedy,Contains Crime,Contains Documentary,Contains Drama,Contains Fantasy,Contains FilmNoir,Contains Horror,Contains Musical ,Contains Mystery,Contains Romance,Contains SciFi,Contains Thriller,Contains War,Contains Wetstern
+0,"Dark Knight, The",1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+1,"Lord of the Rings: The Return of the King, The",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,"Bourne Ultimatum, The",1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+3,WALLE,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0
+4,Finding Nemo,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,"Incredibles, The",1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Ratatouille,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,"Monsters, Inc.",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,Shrek,0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+9,Schindler's List,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+10,There's Something About Mary,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+11,Pirates of the Caribbean: The Curse of the Black Pearl,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,"Other Side of the Bed, The",0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+13,Pulp Fiction,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+14,Sin City,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+15,Bowling for Columbine,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+16,Super Size Me,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+17,City of God,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+18,Pan's Labyrinth,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+19,Star Wars: Episode III - Revenge of the Sith,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+20,Fantastic Four,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+21,Exorcist: The Beginning,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
+22,Seven,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0
+23,"Game, The",0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+24,Pretty Woman,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+25,"Matrix, The",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+26,Terminator 2: Judgment Day,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27,X-Men,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+28,"Sixth Sense, The",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+29,Mission: Impossible III,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+30,300,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+31,Troy,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+32,Transformers,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+33,No Country for Old Men,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+34,"Sea Inside, The",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+35,"Pianist, The",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+36,Million Dollar Baby,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+37,"Orphanage, The",0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0
+38,Titanic,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+39,"Silence of the Lambs, The",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+40,Brokeback Mountain,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+41,[Rec],0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+42,Volver,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+43,Sweeney Todd: The Demon Barber of Fleet Street,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0
+44,Changeling,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+45,"English Patient, The",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+46,Hotel Rwanda,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+47,High School Musical,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+48,Fahrenheit 9/11,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+49,Mamma Mia!,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
